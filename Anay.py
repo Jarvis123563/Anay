@@ -5,7 +5,7 @@ import threading
 import time
 
 # === Configuration ===
-BOT_TOKEN = ''
+BOT_TOKEN = '7577331816:AAGiEqqsy-wynhxvVm8ZlTVU4I-2Mk_5RWQ'
 MY_GROUP_ID = -1002258337074  # Replace with your group ID
 SEND_INTERVAL = 3000  # seconds
 
