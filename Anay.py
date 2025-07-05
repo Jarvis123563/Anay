@@ -7,7 +7,7 @@ import time
 # === Configuration ===
 BOT_TOKEN = '7577331816:AAGiEqqsy-wynhxvVm8ZlTVU4I-2Mk_5RWQ'
 MY_GROUP_ID = -1002501297731  # Replace with your group ID
-SEND_INTERVAL = 3000  # seconds
+SEND_INTERVAL = 200  # seconds
 
 bot = Bot(token=BOT_TOKEN)
 app = Flask(__name__)
